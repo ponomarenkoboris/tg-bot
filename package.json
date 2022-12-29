@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "workspaces":[
+        "web-app"
+    ],
+    "scripts": {
+        "build:web-app": "yarn workspaces web-app build"
+    }
+}
