@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+}
+
+.form__input {
+    width: 100%;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.form__select {
+    padding: 10px;
+    margin-top: 15px;
+}
